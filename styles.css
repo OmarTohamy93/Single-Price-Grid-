@@ -126,5 +126,6 @@ main {
     background-color: var(--opc50-cyan);
     display: flex;
     flex-direction: column;
+    border-bottom-right-radius: 5px;
     gap: 20px;
 }
